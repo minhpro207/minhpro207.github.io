@@ -478,13 +478,13 @@ html{
 
 .contact-form{
     font-size: 15px;
-
 }
 
 .contact-form .form-control{
     padding: 10px;
     border: 1px solid #ccc;
     width: 100%;
+    font-size: 16px;
 }
 
 .contact-form .form-submit-button{
@@ -494,11 +494,17 @@ html{
     float: right;
     cursor: pointer;
     border: none;
+    appearance: none;
+    -webkit-appearance: none;
 }
 
 .contact-form .form-submit-button:hover{
     background-color: #ccc;
     color: #000;
+}
+
+.contact-send-button{
+    font-size: 17px;
 }
 
 .map-section img{
