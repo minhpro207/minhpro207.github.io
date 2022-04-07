@@ -29,64 +29,76 @@ const app = {
 
     songs: [
         {
-            name: 'Headlong',
-            singer: 'The Queen',
+            name: 'Bí mật không tên',
+            singer: 'Bùi Anh Tuấn',
             path: './assets/music/song1.mp3',
-            image: './assets/img/img1.jpg'
-        },
-        {
-            name: 'We will rockyou',
-            singer: 'The Queen',
-            path: './assets/music/song2.mp3',
             image: './assets/img/img2.jpg'
         },
         {
-            name: 'Somebody to love',
-            singer: 'The Queen',
+            name: 'Buông',
+            singer: 'Bùi Anh Tuấn',
+            path: './assets/music/song2.mp3',
+            image: './assets/img/img4.jpg'
+        },
+        {
+            name: 'Chia Tay',
+            singer: 'Bùi Anh Tuấn',
             path: './assets/music/song3.mp3',
-            image: './assets/img/img1.jpg'
+            image: './assets/img/img2.jpg'
         },
         {
-            name: 'Radio ga ga',
-            singer: 'The Queen',
+            name: 'Hẹn một mai',
+            singer: 'Bùi Anh Tuấn',
             path: './assets/music/song4.mp3',
-            image: './assets/img/img1.jpg'
+            image: './assets/img/img3.webp'
         },
         {
-            name: 'Love of my life',
-            singer: 'The Queen',
+            name: 'Hoang Mang',
+            singer: 'Bùi Anh Tuấn',
             path: './assets/music/song5.mp3',
             image: './assets/img/img2.jpg'
         },
         {
-            name: 'Its a hard life',
-            singer: 'The Queen',
+            name: 'Nơi tình yêu bắt đầu',
+            singer: 'Bùi Anh Tuấn',
             path: './assets/music/song6.mp3',
             image: './assets/img/img1.jpg'
         },
         {
-            name: 'Innuendo',
-            singer: 'The Queen',
+            name: 'Nơi tình yêu kết thúc',
+            singer: 'Bùi Anh Tuấn',
             path: './assets/music/song7.mp3',
-            image: './assets/img/img2.jpg'
+            image: './assets/img/img1.jpg'
         },
         {
-            name: 'I\'m Going Slightly Mad',
-            singer: 'The Queen',
+            name: 'Nơi tình yêu trở lại',
+            singer: 'Bùi Anh Tuấn',
             path: './assets/music/song8.mp3',
             image: './assets/img/img1.jpg'
         },
         {
-            name: 'Breakthru',
-            singer: 'The Queen',
+            name: 'Lạ lùng',
+            singer: 'Vũ.',
             path: './assets/music/song9.mp3',
-            image: './assets/img/img2.jpg'
+            image: './assets/img/img5.jpg'
         },
         {
-            name: 'I want it all',
-            singer: 'The Queen',
+            name: 'Lời yêu em',
+            singer: 'Vũ.',
             path: './assets/music/song10.mp3',
-            image: './assets/img/img1.jpg'
+            image: './assets/img/img6.jfif'
+        },
+        {
+            name: 'Người mai dịch cô đơn',
+            singer: 'Vũ.',
+            path: './assets/music/song11.mp3',
+            image: './assets/img/img7.jfif'
+        },
+        {
+            name: 'Phút ban đầu',
+            singer: 'Vũ.',
+            path: './assets/music/song12.mp3',
+            image: './assets/img/img8.jpg'
         }
     ],
 
